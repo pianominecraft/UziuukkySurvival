@@ -1,0 +1,7 @@
+name: com.pianominecraft.survival.Survival
+version: 1.0
+main: com.pianominecraft.survival.Survival
+api-version: 1.16
+
+commands:
+  start:
